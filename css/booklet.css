@@ -29,6 +29,7 @@ body{
 .my_images img{
 	width: 80%;
 	height:auto;
+	align-content: center;
 }
 
 
