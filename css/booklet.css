@@ -3,9 +3,9 @@ body{
 	color:#555555;
 
 	font: normal 16px Arial, Helvetica, sans-serif;
-	margin-left:auto;
+	margin-left:25px;
 	margin-bottom: 15px;
-	margin-right:auto;
+	margin-right:20px;
 	margin-top: 15px;
 	padding: 10px;
 
@@ -16,7 +16,7 @@ body{
 }
 
 .button {
-	background-color: #333;
+	background-color:darkgray;
 	color: #fff;
 	padding: 10px 15px;
 	border: none;
